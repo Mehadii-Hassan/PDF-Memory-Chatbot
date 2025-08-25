@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-ollama
+faiss-cpu
+sentence-transformers
+transformers
+ollama
+pypdf
+rank-bm25
