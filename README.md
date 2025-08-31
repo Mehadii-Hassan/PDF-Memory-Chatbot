@@ -1,7 +1,7 @@
 <h1 align="center">📚 Faculty Info RAG Chatbot</h1>
 
 <p align="center">
-  <strong>Conversational AI for University Faculty Information</strong><br>
+  <strong>Conversational AI for University Faculty Information </strong><br>
   Powered by <code>LangChain</code>, <code>FAISS</code>, <code>BM25</code>, and <code>OpenAI/Ollama</code>
 </p>
 
